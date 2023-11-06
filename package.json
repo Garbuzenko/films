@@ -35,5 +35,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Рейтинг фильмов https://garbuzenko.github.io/films/",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "author": "",
+  "license": "ISC"
 }
